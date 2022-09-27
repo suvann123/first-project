@@ -1,0 +1,12 @@
+.footer__column-links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 0 0 16px 0;
+  font-family: 'Inter', 'Arial', sans-serif;
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: normal;
+  align-content: left;
+  padding: 0;
+}
